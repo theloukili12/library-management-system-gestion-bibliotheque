@@ -1,4 +1,4 @@
-# library-management-system-gestion-bibliotheque
+# Library management system PHP
 A web application to manage our faculty’s library where students can borrow books to prepare themselves for the exams.
 # The-Process-of-Borrowing-Books: 
 1.Student have a particular interface to reserve a book before taking it from the library.
